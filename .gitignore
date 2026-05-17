@@ -1,0 +1,48 @@
+# Gradle files
+.gradle
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# IDE
+.idea/
+.idea
+*.iml
+*.iws
+*.ipr
+*.apk
+*.ap_
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+
+# Android
+bin/
+gen/
+out/
+.classpath
+.project
+.settings/
+
+# Kotlin
+*.kt.bak
+kotlin.js
+kotlin.js.map
+
+# Node (if used)
+node_modules/
+npm-debug.log*
+
+# Release files
+release/
